@@ -268,4 +268,16 @@
         xsi:type="archimate:Goal"
         href="Goal_5f61557a-f598-46a4-9b79-05848b638ae2.xml#5f61557a-f598-46a4-9b79-05848b638ae2"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e00ddd2b-5ae3-49e2-93f9-635723328a26">
+    <bounds
+        x="1035"
+        y="196"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_c5363774-025d-46b8-9655-67961b89b2f7.xml#c5363774-025d-46b8-9655-67961b89b2f7"/>
+  </children>
 </archimate:ArchimateDiagramModel>
