@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Demographic, Credit,Licensing ,Regulatory Data"
+    id="a3f44bcb-5224-4174-a727-a857cc63023a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_8ead13af-4609-4b54-9d78-09fac7c039f9.xml#8ead13af-4609-4b54-9d78-09fac7c039f9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bceb20f7-29d3-4756-8327-abbc3bcfb263.xml#bceb20f7-29d3-4756-8327-abbc3bcfb263"/>
+</archimate:FlowRelationship>

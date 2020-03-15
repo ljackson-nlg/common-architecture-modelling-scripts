@@ -1,0 +1,137 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="SWOT"
+    id="e1293e4f-23f1-476e-9153-caf131698d30"
+    documentation="SWOT analysis is a strategic planning method used to evaluate the Strengths, Weaknesses/Limitations, Opportunities, and Threats involved in a project or in a business venture.&#xD;&#xA;&#xD;&#xA;It involves specifying the objective of the business venture or project and identifying the internal and external factors that are favorable and unfavorable to achieve that objective. The technique is credited to Albert Humphrey."
+    hintTitle="SWOT"
+    hintContent="&lt;p>SWOT analysis is a strategic planning method used to evaluate the &lt;b>S&lt;/b>trengths, &lt;b>W&lt;/b>eaknesses/Limitations, &lt;b>O&lt;/b>pportunities, and &lt;b>T&lt;/b>hreats involved in a project or in a business venture.&lt;/p>&#xD;&#xA;&#xD;&#xA;&lt;p>It involves specifying the objective of the business venture or project and identifying the internal and external factors that are favorable and unfavorable to achieve that objective. The technique is credited to Albert Humphrey.&lt;/p>">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="41f77f5c-ef99-4f9b-ba0e-85a08ae8dcd8"
+      font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#e2ef86"
+      locked="true"
+      borderColor="#000000"
+      hintTitle="Strengths"
+      hintContent="&lt;p>List the characteristics of the business, or project team that give it an advantage over others.&lt;/p>&#xD;&#xA;&#xD;&#xA;&lt;LI>Advantages of proposition?&lt;/LI>&#xD;&#xA;&lt;LI>Capabilities?&lt;/LI>&#xD;&#xA;&lt;LI>Competitive advantages?&lt;/LI>&#xD;&#xA;&lt;LI> USP's (unique selling points)?&lt;/LI>&#xD;&#xA;&lt;LI>Resources, Assets, People?&lt;/LI>&#xD;&#xA;&lt;LI>Experience, knowledge, data?&lt;/LI>&#xD;&#xA;&lt;LI>Financial reserves, likely returns?&lt;/LI>&#xD;&#xA;&lt;LI>Marketing - reach, distribution, awareness?&lt;/LI>&#xD;&#xA;&lt;LI>Innovative aspects?&lt;/LI>&#xD;&#xA;&lt;LI>Location and geographical?&lt;/LI>&#xD;&#xA;&lt;LI>Price, value, quality?&lt;/LI>&#xD;&#xA;&lt;LI>Accreditations, qualifications, certifications?&lt;/LI>&#xD;&#xA;&lt;LI>Processes, systems, IT, communications?&lt;/LI>&#xD;&#xA;&lt;LI>Cultural, attitudinal, behavioural?&lt;/LI>&#xD;&#xA;&lt;LI>Management cover, succession?&lt;/LI>"
+      content="Strengths">
+    <bounds
+        x="84"
+        y="60"
+        width="373"
+        height="373"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="e6156749-5c3d-4f87-8583-d71a499e00da"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#d0f3ad"
+      content="Helpful"
+      notes="Helpful to achieving the objective"
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="96"
+        y="12"
+        width="349"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="1fe0c8b8-4622-43f5-8ae2-74fd81ab9a9d"
+      font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#f9c284"
+      locked="true"
+      borderColor="#000000"
+      hintTitle="Weaknesses"
+      hintContent="&lt;p>List the characteristics that place the team at a disadvantage relative to others&lt;/p>&#xD;&#xA;&#xD;&#xA;&lt;LI>Disadvantages of proposition?&lt;/LI>&#xD;&#xA;&lt;LI>Gaps in capabilities?&lt;/LI>&#xD;&#xA;&lt;LI>Lack of competitive strength?&lt;/LI>&#xD;&#xA;&lt;LI>Reputation, presence and reach?&lt;/LI>&#xD;&#xA;&lt;LI>Financials?&lt;/LI>&#xD;&#xA;&lt;LI>Own known vulnerabilities?&lt;/LI>&#xD;&#xA;&lt;LI>Timescales, deadlines and pressures?&lt;/LI>&#xD;&#xA;&lt;LI>Cashflow, start-up cash-drain?&lt;/LI>&#xD;&#xA;&lt;LI>Continuity, supply chain robustness?&lt;/LI>&#xD;&#xA;&lt;LI>Effects on core activities, distraction?&lt;/LI>&#xD;&#xA;&lt;LI>Reliability of data, plan predictability?&lt;/LI>&#xD;&#xA;&lt;LI>Morale, commitment, leadership?&lt;/LI>&#xD;&#xA;&lt;LI>Accreditations, etc?&lt;/LI>&#xD;&#xA;&lt;LI>Processes and systems, etc?&lt;/LI>&#xD;&#xA;&lt;LI>Management cover, succession?&lt;/LI>"
+      content="Weaknesses">
+    <bounds
+        x="456"
+        y="60"
+        width="373"
+        height="373"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="646978ee-b10c-437c-ab3d-5fa0af79ce84"
+      font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#a9d0bb"
+      locked="true"
+      borderColor="#000000"
+      hintTitle="Opportunities"
+      hintContent="&lt;p>List the &lt;i>external&lt;/i> chances to improve performance (e.g. make greater profits) in the environment&lt;/p>&#xD;&#xA;&lt;LI>Market developments?&lt;/LI>&#xD;&#xA;&lt;LI>Competitors' vulnerabilities?&lt;/LI>&#xD;&#xA;&lt;LI>Industry or lifestyle trends?&lt;/LI>&#xD;&#xA;&lt;LI>Technology development and innovation?&lt;/LI>&#xD;&#xA;&lt;LI>Global influences?&lt;/LI>&#xD;&#xA;&lt;LI>New markets, vertical, horizontal?&lt;/LI>&#xD;&#xA;&lt;LI>Niche target markets?&lt;/LI>&#xD;&#xA;&lt;LI>Geographical, export, import?&lt;/LI>&#xD;&#xA;&lt;LI>Market need for new USP's?&lt;/LI>&#xD;&#xA;&lt;LI>Market response to tactics, e.g., surprise?&lt;/LI>&#xD;&#xA;&lt;LI>Major contracts, tenders?&lt;/LI>&#xD;&#xA;&lt;LI>Business and product development?&lt;/LI>&#xD;&#xA;&lt;LI>Information and research?&lt;/LI>&#xD;&#xA;&lt;LI>Partnerships, agencies, distribution?&lt;/LI>&#xD;&#xA;&lt;LI>Market volume demand trends?&lt;/LI>&#xD;&#xA;&lt;LI>Seasonal, weather, fashion influences?&lt;/LI>"
+      content="Opportunities">
+    <bounds
+        x="84"
+        y="432"
+        width="373"
+        height="373"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="03fbe3cc-0368-4987-96b0-60bbd9925259"
+      font="1|Segoe UI|11.25|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#c2a4b8"
+      locked="true"
+      borderColor="#000000"
+      hintTitle="Threats"
+      hintContent="&lt;p>List the &lt;i>external&lt;/i> elements in the environment that could cause trouble for the business or project&lt;/p>&#xD;&#xA;&lt;LI>Political effects?&lt;/LI> &#xD;&#xA;&lt;LI>Legislative effects?&lt;/LI>&#xD;&#xA;&lt;LI>Environmental effects?&lt;/LI>&#xD;&#xA;&lt;LI>IT developments?&lt;/LI>&#xD;&#xA;&lt;LI>Competitor intentions - various?&lt;/LI>&#xD;&#xA;&lt;LI>Market demand?&lt;/LI>&#xD;&#xA;&lt;LI>New technologies, services, ideas?&lt;/LI>&#xD;&#xA;&lt;LI>Vital contracts and partners?&lt;/LI>&#xD;&#xA;&lt;LI>Obstacles faced?&lt;/LI>&#xD;&#xA;&lt;LI>Insurmountable weaknesses?&lt;/LI>&#xD;&#xA;&lt;LI>Employment market?&lt;/LI>&#xD;&#xA;&lt;LI>Financial and credit pressures?&lt;/LI>&#xD;&#xA;&lt;LI>Economy - home, abroad?&lt;/LI>&#xD;&#xA;&lt;LI>Seasonality, weather effects?&lt;/LI>"
+      content="Threats">
+    <bounds
+        x="456"
+        y="432"
+        width="373"
+        height="373"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="b1cf3c6c-b9f3-4071-8da7-5c60b5ee9e60"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#f8a9a9"
+      content="Harmful"
+      notes="Harmful to achieving the objective"
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="468"
+        y="12"
+        width="349"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="9c4bed8e-38d0-43e7-ade1-0cf036a2d3de"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#fef6b8"
+      content="Internal"
+      notes="The strengths and weaknesses internal to the organization."
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="12"
+        y="72"
+        width="61"
+        height="349"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="05304c59-0273-43db-a8da-811bc5874cbf"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#c6d8ec"
+      content="External"
+      notes="The opportunities and threats presented by the external environment to the organization."
+      locked="true"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="12"
+        y="444"
+        width="61"
+        height="349"/>
+  </children>
+</canvas:CanvasModel>

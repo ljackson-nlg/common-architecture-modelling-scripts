@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation"
+    id="ebcd84b5-53d3-49b7-b7c5-beb4b79a593f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3f00b6de-b50b-402a-9c38-de8400d3213a.xml#3f00b6de-b50b-402a-9c38-de8400d3213a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_15df82d5-4093-4d1e-a85d-a1e199b7b616.xml#15df82d5-4093-4d1e-a85d-a1e199b7b616"/>
+</archimate:FlowRelationship>

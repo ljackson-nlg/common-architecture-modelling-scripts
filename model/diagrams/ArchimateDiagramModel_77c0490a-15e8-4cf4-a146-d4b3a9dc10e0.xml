@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
-    id="77c0490a-15e8-4cf4-a146-d4b3a9dc10e0">
+    name="Business Strategy"
+    id="77c0490a-15e8-4cf4-a146-d4b3a9dc10e0"
+    viewpoint="physical">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6ef292cb-35b5-4084-b277-049a9019aa99">
@@ -236,24 +237,12 @@
     </sourceConnections>
     <bounds
         x="450"
-        y="672"
+        y="648"
         width="147"
         height="70"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_9c0d54b0-307c-4293-81f1-1179cc7d9ba4.xml#9c0d54b0-307c-4293-81f1-1179cc7d9ba4"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="bdbfe98b-e2ad-42de-afa2-399a0634f56e">
-    <bounds
-        x="660"
-        y="672"
-        width="133"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_fcf76feb-fc26-486f-9a3e-a65e9c3231be.xml#fcf76feb-fc26-486f-9a3e-a65e9c3231be"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -279,17 +268,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_c5363774-025d-46b8-9655-67961b89b2f7.xml#c5363774-025d-46b8-9655-67961b89b2f7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="db010a20-6a44-49db-8245-0dc58784391f">
-    <bounds
-        x="1097"
-        y="386"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_1c2d5a00-96ee-4e37-8b3a-658545788d18.xml#1c2d5a00-96ee-4e37-8b3a-658545788d18"/>
   </children>
 </archimate:ArchimateDiagramModel>
