@@ -2,17 +2,17 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generated View for Accept Application Service"
-    id="97203726-4e76-4dcc-a9f4-ebb8ff5f7dfc"
-    viewpoint="application_usage">
+    id="c9a90029-06b1-4739-86f2-65f4f1c468e7"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7c58b4a5-9d06-4865-b88e-e8a4ff37d342"
-      targetConnections="71344152-7344-4080-be34-60bc7574bbb6">
+      id="843e8566-dde0-4365-a0e4-7428de72be3e"
+      targetConnections="007b9b2a-75ce-453a-b7e0-480bae4e1953">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5d4f667a-86d8-4218-8e84-aaf328ce98c9"
-        source="7c58b4a5-9d06-4865-b88e-e8a4ff37d342"
-        target="a6a10146-2bc4-42cb-86dc-4b30ed85e2f7">
+        id="4b2982ec-8ba9-4d67-94e9-f6e0970572c6"
+        source="843e8566-dde0-4365-a0e4-7428de72be3e"
+        target="f5d1fbe1-f5c0-4112-8d86-d8f3591658b9">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_da103268-574a-46fc-b33b-523728f1e732.xml#da103268-574a-46fc-b33b-523728f1e732"/>
@@ -28,8 +28,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a6a10146-2bc4-42cb-86dc-4b30ed85e2f7"
-      targetConnections="5d4f667a-86d8-4218-8e84-aaf328ce98c9">
+      id="f5d1fbe1-f5c0-4112-8d86-d8f3591658b9"
+      targetConnections="4b2982ec-8ba9-4d67-94e9-f6e0970572c6">
     <bounds
         x="170"
         y="20"
@@ -41,12 +41,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c2a639c8-e141-4a38-9c9c-8bf6fe7c4aa0">
+      id="01e19901-9120-4624-8515-9aae9a82b78d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="71344152-7344-4080-be34-60bc7574bbb6"
-        source="c2a639c8-e141-4a38-9c9c-8bf6fe7c4aa0"
-        target="7c58b4a5-9d06-4865-b88e-e8a4ff37d342">
+        id="007b9b2a-75ce-453a-b7e0-480bae4e1953"
+        source="01e19901-9120-4624-8515-9aae9a82b78d"
+        target="843e8566-dde0-4365-a0e4-7428de72be3e">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_c711013c-7951-4ad1-9875-106e3acc3561.xml#c711013c-7951-4ad1-9875-106e3acc3561"/>
