@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generated View for Agent"
+    name="Distribution_Comp_Mgmt_Layered"
     id="61f065ea-0fa1-4e8f-8e43-0a6c4299f0fc"
     connectionRouterType="2"
     viewpoint="layered">
@@ -178,7 +178,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d62de7e0-99f3-4b38-bc95-638f9b7893cd">
+      id="d62de7e0-99f3-4b38-bc95-638f9b7893cd"
+      targetConnections="ef6046d0-37fa-4836-87b6-3182659ace7c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="18f59e06-84ec-40db-acde-4b8d001ba13e"
@@ -261,5 +262,26 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_1069d045-36ae-491b-986a-abca196ca1e8.xml#1069d045-36ae-491b-986a-abca196ca1e8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6682ffb2-2b04-45a4-97aa-18769ca96aed">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ef6046d0-37fa-4836-87b6-3182659ace7c"
+        source="6682ffb2-2b04-45a4-97aa-18769ca96aed"
+        target="d62de7e0-99f3-4b38-bc95-638f9b7893cd">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_c711013c-7951-4ad1-9875-106e3acc3561.xml#c711013c-7951-4ad1-9875-106e3acc3561"/>
+    </sourceConnections>
+    <bounds
+        x="504"
+        y="780"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_4faff9d3-d06f-47fa-a5fa-b1e065bfdc53.xml#4faff9d3-d06f-47fa-a5fa-b1e065bfdc53"/>
   </children>
 </archimate:ArchimateDiagramModel>
