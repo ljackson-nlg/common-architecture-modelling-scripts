@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Accepted"
+    id="4669ad51-71d3-411a-8b4f-78a1a6679ccb">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_6b323728-f93d-4168-9db6-8d7da7c26653.xml#6b323728-f93d-4168-9db6-8d7da7c26653"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_a90308dd-e743-4dfe-a83e-af3979170b9d.xml#a90308dd-e743-4dfe-a83e-af3979170b9d"/>
+</archimate:TriggeringRelationship>
