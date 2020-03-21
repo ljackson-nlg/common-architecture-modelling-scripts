@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Premium Financing"
+    id="3a024f5f-0e02-4ffc-b4b4-e4f456192bce">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c8f92008-bc60-4361-8bca-41844ce74621.xml#c8f92008-bc60-4361-8bca-41844ce74621"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_d48e835e-164f-40ca-b1e5-b76832c75975.xml#d48e835e-164f-40ca-b1e5-b76832c75975"/>
+</archimate:TriggeringRelationship>
