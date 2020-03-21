@@ -1180,10 +1180,10 @@
           href="CompositionRelationship_42a4e195-d0ab-450e-a1ce-2cb169aa818e.xml#42a4e195-d0ab-450e-a1ce-2cb169aa818e"/>
     </sourceConnections>
     <bounds
-        x="480"
+        x="528"
         y="600"
         width="505"
-        height="427"/>
+        height="453"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2d4e27e6-2857-487f-b83d-f13f4e30e7e8"
