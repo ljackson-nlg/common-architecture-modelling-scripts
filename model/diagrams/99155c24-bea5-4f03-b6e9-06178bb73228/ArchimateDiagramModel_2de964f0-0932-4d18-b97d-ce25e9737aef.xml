@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Manage Selling Investments"
+    name="Sell New Business"
     id="2de964f0-0932-4d18-b97d-ce25e9737aef">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -955,16 +955,16 @@
           href="CompositionRelationship_059b0790-99f9-46f6-ad0d-b7368804836a.xml#059b0790-99f9-46f6-ad0d-b7368804836a"/>
     </sourceConnections>
     <bounds
-        x="1020"
+        x="1056"
         y="597"
-        width="744"
+        width="600"
         height="505"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4eb325d5-5064-4b05-99dc-c693d90761e4"
         targetConnections="0b9c6fdb-a250-45bf-ae48-8088987fc191">
       <bounds
-          x="132"
+          x="96"
           y="111"
           width="120"
           height="55"/>
@@ -977,7 +977,7 @@
         id="b8210f88-385b-49d0-85bf-067ef0f11952"
         targetConnections="8dbe2232-3425-4ec0-8b63-0a1e4a0486dd">
       <bounds
-          x="291"
+          x="255"
           y="111"
           width="120"
           height="55"/>
@@ -990,7 +990,7 @@
         id="3f0566e2-405c-46c8-b660-75d1ef589ea5"
         targetConnections="e6e3ee3f-e531-4c6a-acd7-ee293f8de143">
       <bounds
-          x="441"
+          x="405"
           y="111"
           width="120"
           height="55"/>
@@ -1003,7 +1003,7 @@
         id="3a6058dc-db8f-4967-8044-6e561bb9781e"
         targetConnections="8b45030b-46bd-4fa9-bad6-dace23ab0108">
       <bounds
-          x="291"
+          x="255"
           y="211"
           width="120"
           height="55"/>
@@ -1016,7 +1016,7 @@
         id="18cac87e-b2eb-4603-80de-a0db6f8639a7"
         targetConnections="4bbcf537-c638-40c9-bfa3-3f9ccf530f6a">
       <bounds
-          x="441"
+          x="405"
           y="211"
           width="120"
           height="55"/>
@@ -1029,8 +1029,8 @@
         id="362ea663-b0ff-4fc8-bc65-cbc7509d8963"
         targetConnections="3c9f288a-3d12-4597-9e4b-82e0004d4710">
       <bounds
-          x="591"
-          y="211"
+          x="60"
+          y="372"
           width="120"
           height="55"/>
       <archimateElement
@@ -1042,7 +1042,7 @@
         id="34cd440a-32ea-478a-b2da-dbcb4493be81"
         targetConnections="5d2009f3-d911-4f12-80cd-38a7168e0a59">
       <bounds
-          x="291"
+          x="255"
           y="311"
           width="120"
           height="55"/>
@@ -1055,7 +1055,7 @@
         id="bd3dc012-cfb3-4b80-98fe-edc73591ca22"
         targetConnections="2f5ba053-02e6-447a-a3f3-08194ac9ec23">
       <bounds
-          x="441"
+          x="405"
           y="311"
           width="120"
           height="55"/>
@@ -1068,7 +1068,7 @@
         id="e1a4315a-b482-469b-9279-21bf8f8b05f4"
         targetConnections="83b2f160-09d8-458f-bf93-acdcb21c37f9 3d8317a0-b480-4f85-a48d-16be133e5e4b">
       <bounds
-          x="60"
+          x="24"
           y="240"
           width="120"
           height="55"/>
@@ -1081,7 +1081,7 @@
         id="f0637360-fac1-4849-9564-3217b6796186"
         targetConnections="0ae75ca4-cef0-414b-a635-457b4119ca46">
       <bounds
-          x="291"
+          x="255"
           y="411"
           width="120"
           height="55"/>
@@ -1094,7 +1094,7 @@
         id="96dc5a24-2dd8-4455-b4d2-1d0e099837d6"
         targetConnections="37b160c9-4824-4178-b30f-8a2b1a4dff07">
       <bounds
-          x="441"
+          x="405"
           y="411"
           width="120"
           height="55"/>
@@ -1107,8 +1107,8 @@
         id="909f1018-d415-4302-85a0-056a7cf112c2"
         targetConnections="bcd8893f-4fa7-4636-a95a-cccc818d0fb1">
       <bounds
-          x="591"
-          y="411"
+          x="72"
+          y="300"
           width="120"
           height="55"/>
       <archimateElement
@@ -1120,7 +1120,7 @@
         id="ba675398-2ca4-4b11-b6c8-d51e709d21a6"
         targetConnections="6bfbb23e-c6d9-4f04-9deb-fd8fc3216caa">
       <bounds
-          x="291"
+          x="255"
           y="511"
           width="120"
           height="55"/>
@@ -1133,7 +1133,7 @@
         id="808e1104-b6d2-4e0c-b2ac-107102d930e2"
         targetConnections="a0ec304f-0cd9-4610-89fc-ceca3a08ad40">
       <bounds
-          x="441"
+          x="405"
           y="511"
           width="120"
           height="55"/>
@@ -1146,7 +1146,7 @@
         id="364fe131-2b65-4243-ac9e-66c4441d5eaf"
         targetConnections="11e52fa0-8967-43fa-8f88-bbd58872cc09">
       <bounds
-          x="591"
+          x="555"
           y="511"
           width="120"
           height="55"/>
