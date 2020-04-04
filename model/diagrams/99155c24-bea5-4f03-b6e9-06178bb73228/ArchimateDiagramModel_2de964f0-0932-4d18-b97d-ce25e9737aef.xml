@@ -1730,7 +1730,7 @@
           targetConnections="56f99418-0cd7-48f4-aa77-6f402908bd01">
         <bounds
             x="32"
-            y="51"
+            y="60"
             width="120"
             height="55"/>
         <archimateElement
@@ -1768,8 +1768,8 @@
           id="efc372bf-c719-4cd1-9d81-0b20635c8806"
           targetConnections="f741402d-0c44-4378-83ce-bcfe40db1130">
         <bounds
-            x="180"
-            y="51"
+            x="168"
+            y="60"
             width="120"
             height="55"/>
         <archimateElement
@@ -1794,7 +1794,7 @@
           id="431433f5-cbb4-4d90-9f07-ef65fa75721b"
           targetConnections="b7ed053c-dcaf-45d8-a116-e24410392669">
         <bounds
-            x="180"
+            x="168"
             y="125"
             width="120"
             height="55"/>
@@ -1807,7 +1807,7 @@
           id="0e80cd96-b5c9-49a0-9e74-c3c571ac36cc"
           targetConnections="f4a52873-9f1c-4e87-94b9-189c26977f6e">
         <bounds
-            x="180"
+            x="168"
             y="192"
             width="120"
             height="55"/>
