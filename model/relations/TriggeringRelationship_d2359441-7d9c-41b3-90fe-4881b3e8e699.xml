@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protection Loans"
+    id="d2359441-7d9c-41b3-90fe-4881b3e8e699">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_cd5b8ae2-949c-4dac-a96e-72e2667a4b38.xml#cd5b8ae2-949c-4dac-a96e-72e2667a4b38"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_0af4f7fa-5291-4ec0-8368-5b9c4ca85d3b.xml#0af4f7fa-5291-4ec0-8368-5b9c4ca85d3b"/>
+</archimate:TriggeringRelationship>

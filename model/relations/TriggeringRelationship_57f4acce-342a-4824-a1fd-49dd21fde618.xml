@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reinsurance not needed"
+    id="57f4acce-342a-4824-a1fd-49dd21fde618">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_5385482b-3913-4ff2-9d7a-5342041c0ac3.xml#5385482b-3913-4ff2-9d7a-5342041c0ac3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_656396e5-1b50-4e53-85b0-3675025a548f.xml#656396e5-1b50-4e53-85b0-3675025a548f"/>
+</archimate:TriggeringRelationship>
