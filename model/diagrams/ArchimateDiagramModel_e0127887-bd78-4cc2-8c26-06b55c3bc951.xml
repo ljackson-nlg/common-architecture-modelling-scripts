@@ -247,16 +247,16 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="fa03ca8c-ae2f-46f8-8fbb-cbab1109419a"
         targetConnections="69ff014c-fe03-4cab-aae0-de446fce630c"
+        font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande"
         fontColor="#ffffff"
         fillColor="#3399ff">
       <features
           name="lineAlpha"
           value="100"/>
       <bounds
-          x="12"
-          y="33"
-          width="97"
-          height="25"/>
+          y="24"
+          width="121"
+          height="34"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_e68dda0f-6007-43be-886d-b7ebbce55723.xml#e68dda0f-6007-43be-886d-b7ebbce55723"/>
@@ -271,9 +271,8 @@
           name="lineAlpha"
           value="100"/>
       <bounds
-          x="12"
           y="69"
-          width="97"
+          width="121"
           height="25"/>
       <archimateElement
           xsi:type="archimate:Capability"
