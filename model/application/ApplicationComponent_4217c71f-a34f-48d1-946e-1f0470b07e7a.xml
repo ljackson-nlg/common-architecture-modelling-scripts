@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resonant"
-    id="4217c71f-a34f-48d1-946e-1f0470b07e7a"/>
+    id="4217c71f-a34f-48d1-946e-1f0470b07e7a"
+    documentation="The iPipeline integrated platform responsible for processing life and annuity applications, process automation and underwriting workbench"/>

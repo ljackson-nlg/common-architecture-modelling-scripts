@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OnBase"
-    id="025ef8d9-c7ea-4d68-9528-17c5ff05116d"/>
+    id="025ef8d9-c7ea-4d68-9528-17c5ff05116d"
+    documentation="enterprise content management and process management software"/>
