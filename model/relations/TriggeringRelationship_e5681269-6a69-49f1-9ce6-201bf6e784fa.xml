@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create/Retrieve documents"
+    id="e5681269-6a69-49f1-9ce6-201bf6e784fa">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_1265cce4-e3ab-4237-ae04-914cddb731e8.xml#1265cce4-e3ab-4237-ae04-914cddb731e8"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_df59f96b-34b0-4324-be4b-057855417325.xml#df59f96b-34b0-4324-be4b-057855417325"/>
+</archimate:TriggeringRelationship>

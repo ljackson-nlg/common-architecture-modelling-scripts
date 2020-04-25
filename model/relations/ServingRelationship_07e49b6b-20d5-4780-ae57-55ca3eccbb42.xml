@@ -1,12 +1,12 @@
-<archimate:AccessRelationship
+<archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ingest Call Log"
-    id="e6b48729-30fc-4edb-a017-d31b18a09ec6">
+    name="Current Call"
+    id="07e49b6b-20d5-4780-ae57-55ca3eccbb42">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_4aafe617-a427-4e3b-bcb2-d883f0d40c6c.xml#4aafe617-a427-4e3b-bcb2-d883f0d40c6c"/>
   <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_7051edd5-7284-4451-9d48-25816f56c2d0.xml#7051edd5-7284-4451-9d48-25816f56c2d0"/>
-</archimate:AccessRelationship>
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_daaeb101-26db-4843-89ef-d6b83c790cfc.xml#daaeb101-26db-4843-89ef-d6b83c790cfc"/>
+</archimate:ServingRelationship>

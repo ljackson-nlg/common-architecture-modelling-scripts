@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Retrieve Call Log"
+    id="4fec8f7e-3904-4045-9886-9d8b45620ff6"
+    documentation="While the customer is being served retrieved the customer call log  from the repository (data lake) or SQL Server instance hosting the Call Logs. We should prefer storage of the call logs in our data lake or other repository over storage in Salesforce. This preserves our vendor independence as well as afford integration with any other relevant data set such as web or mobile analytics relative to the customer being served.">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_443a308d-f64e-4ea3-85dc-2b68d782471d.xml#443a308d-f64e-4ea3-85dc-2b68d782471d"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_e3f49bc2-b034-4684-b901-b14aab1a0168.xml#e3f49bc2-b034-4684-b901-b14aab1a0168"/>
+</archimate:TriggeringRelationship>

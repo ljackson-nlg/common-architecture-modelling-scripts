@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eSignature"
+    id="46d6fdb5-4e6f-4d7f-86d2-23a1276e79a2">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_1265cce4-e3ab-4237-ae04-914cddb731e8.xml#1265cce4-e3ab-4237-ae04-914cddb731e8"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_1f3dd607-95cc-44d1-bb2d-cc37189d5751.xml#1f3dd607-95cc-44d1-bb2d-cc37189d5751"/>
+</archimate:TriggeringRelationship>

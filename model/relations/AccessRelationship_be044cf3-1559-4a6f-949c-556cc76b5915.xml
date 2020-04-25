@@ -1,10 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="be044cf3-1559-4a6f-949c-556cc76b5915">
+    name="Triggered Refresh to Salesforce"
+    id="be044cf3-1559-4a6f-949c-556cc76b5915"
+    accessType="3">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_6df4ed1e-49f5-4c93-8da7-cfbabb20217b.xml#6df4ed1e-49f5-4c93-8da7-cfbabb20217b"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_17ff9339-5a52-40d2-86be-61f4a6c9f731.xml#17ff9339-5a52-40d2-86be-61f4a6c9f731"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_7051edd5-7284-4451-9d48-25816f56c2d0.xml#7051edd5-7284-4451-9d48-25816f56c2d0"/>
