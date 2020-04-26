@@ -317,7 +317,7 @@
     <bounds
         x="2027"
         y="309"
-        width="349"
+        width="375"
         height="591"/>
   </children>
   <children
@@ -333,7 +333,7 @@
           href="AggregationRelationship_a6b426ef-e015-4f42-9223-e6d350d772f0.xml#a6b426ef-e015-4f42-9223-e6d350d772f0"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="36"
         y="-192"
         width="168"
         height="181"/>
@@ -925,8 +925,8 @@
           href="AggregationRelationship_fe822133-7a36-4046-9de6-750fcc33772f.xml#fe822133-7a36-4046-9de6-750fcc33772f"/>
     </sourceConnections>
     <bounds
-        x="62"
-        y="36"
+        x="36"
+        y="24"
         width="168"
         height="181"/>
     <children
