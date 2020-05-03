@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="store copmm. and current WF"
+    id="e30a48bd-ca02-4fae-aa39-70e612d653c9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_443a308d-f64e-4ea3-85dc-2b68d782471d.xml#443a308d-f64e-4ea3-85dc-2b68d782471d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_17ff9339-5a52-40d2-86be-61f4a6c9f731.xml#17ff9339-5a52-40d2-86be-61f4a6c9f731"/>
+</archimate:FlowRelationship>

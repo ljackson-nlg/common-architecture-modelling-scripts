@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Policy # Change Message"
+    id="69a9d70c-0fcf-4c77-b1bc-f26e62ec76cb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4217c71f-a34f-48d1-946e-1f0470b07e7a.xml#4217c71f-a34f-48d1-946e-1f0470b07e7a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_5b13519b-413e-41da-9402-e1858d9b6777.xml#5b13519b-413e-41da-9402-e1858d9b6777"/>
+</archimate:FlowRelationship>

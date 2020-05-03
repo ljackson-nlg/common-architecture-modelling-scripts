@@ -1,12 +1,12 @@
-<archimate:AccessRelationship
+<archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="store communications in Datalake/ES"
-    id="04965095-d8d8-4ee6-8313-5952d44766d7">
+    name="realizes"
+    id="0e26e55d-f64f-45e1-af8c-f2ed9513c8d1">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_443a308d-f64e-4ea3-85dc-2b68d782471d.xml#443a308d-f64e-4ea3-85dc-2b68d782471d"/>
   <target
-      xsi:type="archimate:DataObject"
-      href="DataObject_7051edd5-7284-4451-9d48-25816f56c2d0.xml#7051edd5-7284-4451-9d48-25816f56c2d0"/>
-</archimate:AccessRelationship>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_cd079f03-c433-47b8-83c7-0f0c151b003f.xml#cd079f03-c433-47b8-83c7-0f0c151b003f"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="store application changes"
+    id="59e2253d-bbc0-497f-befe-1c3763ca9202">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_4217c71f-a34f-48d1-946e-1f0470b07e7a.xml#4217c71f-a34f-48d1-946e-1f0470b07e7a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0a8bb46d-ac57-400c-b49d-51bd3c7c26ab.xml#0a8bb46d-ac57-400c-b49d-51bd3c7c26ab"/>
+</archimate:FlowRelationship>
