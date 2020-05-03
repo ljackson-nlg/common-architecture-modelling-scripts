@@ -886,14 +886,4 @@
         xsi:type="archimate:Grouping"
         href="Grouping_a273f80a-e0d3-4e7b-a0fa-b3465db899c9.xml#a273f80a-e0d3-4e7b-a0fa-b3465db899c9"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="0febda47-b6b2-44d3-a186-41d2bdd7f63f"
-      textAlignment="1">
-    <bounds
-        x="372"
-        y="31"
-        width="891"
-        height="126"/>
-  </children>
 </archimate:ArchimateDiagramModel>
