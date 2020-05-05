@@ -866,8 +866,8 @@
       textAlignment="1"
       fillColor="#ffcccc">
     <bounds
-        x="66"
-        y="1029"
+        x="-12"
+        y="1068"
         width="400"
         height="140"/>
     <children
